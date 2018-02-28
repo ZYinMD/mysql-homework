@@ -1,0 +1,16 @@
+{
+  "name": "mysql-homework",
+  "version": "1.0.0",
+  "description": "a node mysql practice",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "node bamazonCustomer.js"
+  },
+  "author": "Z Yin",
+  "license": "ISC",
+  "dependencies": {
+    "columnify": "^1.5.4",
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0"
+  }
+}
